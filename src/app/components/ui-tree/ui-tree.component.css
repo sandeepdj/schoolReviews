@@ -1,0 +1,7 @@
+.listItem .hasChildren {
+    display: none;
+}
+
+.activeMenu {
+    display: block;
+}
